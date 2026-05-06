@@ -1,0 +1,44 @@
+<svg width="760" height="132" viewBox="0 0 760 132" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">MeinFlexpool für Windows herunterladen</title>
+  <desc id="desc">Großer Download-Button für die MeinFlexpool Windows-App.</desc>
+  <defs>
+    <linearGradient id="buttonGradient" x1="42" y1="22" x2="718" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="0.52" stop-color="#5B6DF6"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="110" y1="22" x2="548" y2="114" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white" stop-opacity="0.28"/>
+      <stop offset="0.55" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="760" height="132" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#1D4ED8" flood-opacity="0.28"/>
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#020617" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#shadow)">
+    <rect x="42" y="22" width="676" height="88" rx="24" fill="url(#buttonGradient)"/>
+    <rect x="43" y="23" width="674" height="86" rx="23" stroke="white" stroke-opacity="0.22" stroke-width="2"/>
+    <path d="M66 31C224 22 353 27 494 44C586 55 654 71 704 98C682 108 651 110 617 110H66C52.7452 110 42 99.2548 42 86V56C42 42.7452 52.7452 32 66 31Z" fill="url(#shine)"/>
+
+    <g transform="translate(88 46)">
+      <path d="M0 5.41362L19.1038 2.74774V21.1968H0V5.41362Z" fill="white"/>
+      <path d="M22.0932 2.31592L48 0V21.1968H22.0932V2.31592Z" fill="white"/>
+      <path d="M0 24.1703H19.1038V42.6756L0 39.9535V24.1703Z" fill="white"/>
+      <path d="M22.0932 24.1703H48V45L22.0932 42.6756V24.1703Z" fill="white"/>
+    </g>
+
+    <text x="166" y="61" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="0.6">
+      MEINFLEXPOOL FÜR WINDOWS
+    </text>
+    <text x="166" y="88" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">
+      Jetzt kostenlos herunterladen
+    </text>
+
+    <g transform="translate(645 56)">
+      <path d="M0 10C0 4.47715 4.47715 0 10 0H24C29.5228 0 34 4.47715 34 10V24C34 29.5228 29.5228 34 24 34H10C4.47715 34 0 29.5228 0 24V10Z" fill="white" fill-opacity="0.18"/>
+      <path d="M10 17H24M24 17L18 11M24 17L18 23" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>

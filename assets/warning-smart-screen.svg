@@ -1,0 +1,22 @@
+<svg width="144" height="144" viewBox="0 0 144 144" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Achtung</title>
+  <desc id="desc">Gelb-schwarzes Achtung-Schild für den Windows-SmartScreen-Hinweis.</desc>
+  <defs>
+    <linearGradient id="warningFill" x1="72" y1="15" x2="72" y2="129" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDE047"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <filter id="shadow" x="6" y="5" width="132" height="134" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#shadow)">
+    <path d="M72 14L136 126H8L72 14Z" fill="url(#warningFill)"/>
+    <path d="M72 14L136 126H8L72 14Z" stroke="#111827" stroke-width="10" stroke-linejoin="round"/>
+    <path d="M72 31L121 117H23L72 31Z" stroke="#111827" stroke-opacity="0.18" stroke-width="4" stroke-linejoin="round"/>
+  </g>
+
+  <rect x="64" y="55" width="16" height="41" rx="8" fill="#111827"/>
+  <circle cx="72" cy="109" r="9" fill="#111827"/>
+</svg>
