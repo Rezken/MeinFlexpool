@@ -19,6 +19,42 @@
   <sub>Für Windows 10 und Windows 11. Keine Anmeldung erforderlich.</sub>
 </p>
 
+## Installation
+
+<table>
+  <tr>
+    <td width="33%">
+      <strong>1. Herunterladen</strong><br>
+      Lade <strong>MeinFlexpool-Setup.exe</strong> über den Download-Link herunter.
+    </td>
+    <td width="33%">
+      <strong>2. Installieren</strong><br>
+      Starte den Installer per Doppelklick und folge dem Installationsfenster.
+    </td>
+    <td width="33%">
+      <strong>3. Loslegen</strong><br>
+      Öffne MeinFlexpool über das Desktop-Symbol oder das Startmenü.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="96" align="center" valign="middle">
+      <img src="assets/warning-smart-screen.svg" alt="Achtung" width="72">
+    </td>
+    <td valign="middle">
+      <h3>Achtung: Windows kann beim ersten Start eine Warnung ausgeben</h3>
+      <p>
+        MeinFlexpool ist aktuell noch nicht code-signiert. Deshalb kann Windows SmartScreen beim ersten Start eine Sicherheitsabfrage anzeigen.
+      </p>
+      <p>
+        Wenn du MeinFlexpool direkt von dieser offiziellen Download-Seite geladen hast, klicke in der Windows-Meldung auf <strong>Weitere Informationen</strong> und danach auf <strong>Trotzdem ausführen</strong>.
+      </p>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?logo=windows&logoColor=white" alt="Windows 10 und Windows 11">
   <img src="https://img.shields.io/badge/Offline-nutzbar-16A34A" alt="Offline nutzbar">
@@ -91,42 +127,6 @@ MeinFlexpool bündelt die wichtigsten Schritte deiner Dienstplanung in einer lok
         <strong>Pläne sauber exportieren</strong>
       </p>
       <p>Fertige Monatspläne als PDF, Bild oder Excel-Datei ausgeben. Ideal zum Ablegen, Teilen oder Weiterverarbeiten.</p>
-    </td>
-  </tr>
-</table>
-
-## Installation
-
-<table>
-  <tr>
-    <td width="33%">
-      <strong>1. Herunterladen</strong><br>
-      Lade <strong>MeinFlexpool-Setup.exe</strong> über den Download-Link herunter.
-    </td>
-    <td width="33%">
-      <strong>2. Installieren</strong><br>
-      Starte den Installer per Doppelklick und folge dem Installationsfenster.
-    </td>
-    <td width="33%">
-      <strong>3. Loslegen</strong><br>
-      Öffne MeinFlexpool über das Desktop-Symbol oder das Startmenü.
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="96" align="center" valign="middle">
-      <img src="assets/warning-smart-screen.svg" alt="Achtung" width="72">
-    </td>
-    <td valign="middle">
-      <h3>Achtung: Windows kann beim ersten Start eine Warnung ausgeben</h3>
-      <p>
-        MeinFlexpool ist aktuell noch nicht code-signiert. Deshalb kann Windows SmartScreen beim ersten Start eine Sicherheitsabfrage anzeigen.
-      </p>
-      <p>
-        Wenn du MeinFlexpool direkt von dieser offiziellen Download-Seite geladen hast, klicke in der Windows-Meldung auf <strong>Weitere Informationen</strong> und danach auf <strong>Trotzdem ausführen</strong>.
-      </p>
     </td>
   </tr>
 </table>
